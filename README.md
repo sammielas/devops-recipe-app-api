@@ -1,4 +1,4 @@
-# DevOps Deployment Automation with Terraform, AWS and Docker - Starter Code
+# DevOps Deployment Automation with Terraform, AWS and Docker 
 
 This project contains the starter code for DevOps Deployment Automation with Terraform, AWS and Docker
 
